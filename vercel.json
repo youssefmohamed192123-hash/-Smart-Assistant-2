@@ -1,0 +1,10 @@
+{
+  "functions": {
+    "pages/api/process-chunk.js": {
+      "maxDuration": 60
+    },
+    "pages/api/upload.js": {
+      "maxDuration": 30
+    }
+  }
+}
